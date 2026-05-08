@@ -1,0 +1,2 @@
+# analise-industrialX
+pipeline completo
